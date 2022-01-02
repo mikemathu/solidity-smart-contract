@@ -1,0 +1,11 @@
+#Solidity
+artifacts/
+cache/
+
+
+coverage/
+coverage.json
+
+#node
+node_modules/
+
